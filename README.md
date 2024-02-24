@@ -5,4 +5,4 @@ for practicing machine learning , deep learning models
 
 
 
-*****************All codes are not mine they are taken from different platform*****************
+*****************All codes are not mine they are taken from different platforms*****************
